@@ -1,4 +1,4 @@
-# Hola 👋 Soy Jesús Fariña
+# Hola 👋 Soy Jesús
 
 # 💫 Sobre mí:
 
