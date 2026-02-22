@@ -55,24 +55,3 @@ Herramientas:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-![Jesús's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusfar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusfar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### 🔝 Proyectos destacados
-
-[![OdontoGest](https://github-readme-stats.vercel.app/api/pin/?username=jesusfar&repo=OdontoGest&theme=tokyonight)](https://github.com/jesusfar/OdontoGest)
-[![pagina-odontologia](https://github-readme-stats.vercel.app/api/pin/?username=jesusfar&repo=pagina-odontologia&theme=tokyonight)](https://github.com/jesusfar/pagina-odontologia)
-[![bot-whatsapp-carreton](https://github-readme-stats.vercel.app/api/pin/?username=jesusfar&repo=bot-whatsapp-carreton&theme=tokyonight)](https://github.com/jesusfar/bot-whatsapp-carreton)
-[![MyPyme](https://github-readme-stats.vercel.app/api/pin/?username=jesusfar&repo=MyPyme&theme=tokyonight)](https://github.com/jesusfar/MyPyme)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=jesusfar&icon=0&color=6)](https://visitcount.itsvg.in)
