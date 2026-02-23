@@ -74,20 +74,5 @@ Herramientas:
 | [🌐 Página Odontología](https://github.com/jesusfar/pagina-odontologia) | Sitio web profesional para consultorio dental | JavaScript |
 | [💬 Bot WhatsApp](https://github.com/jesusfar/bot-whatsapp-carreton) | Bot de reenvío y automatización de mensajes | JavaScript |
 | [🏢 MyPyme](https://github.com/jesusfar/MyPyme) | Sistema de gestión para pequeñas empresas | Java |
-| [🧮 Calculator](https://github.com/jesusfar/Calculator) | Calculadora en Python | Python |
-
----
-
-# 📊 GitHub Stats:
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusfar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusfar&theme=tokyonight&hide_border=false&layout=compact)
-
-</div>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=jesusfar&icon=0&color=6)](https://visitcount.itsvg.in)
